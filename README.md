@@ -1,4 +1,4 @@
-# Desafio CLassificador de Nível de Herói
+# Desafio Classificador de Nível de Herói
 Desafio feito para o Bootcamp GFT Start #6 - Lógica de Programação da Digital Innovation One.
 
 <div align="left">
